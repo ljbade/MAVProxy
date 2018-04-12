@@ -23,7 +23,6 @@ from MAVProxy.modules.lib import mp_module
 from MAVProxy.modules.lib import mp_util
 from MAVProxy.modules.lib import mp_settings
 
-
 class example(mp_module.MPModule):
     def __init__(self, mpstate):
         """Initialise module"""
