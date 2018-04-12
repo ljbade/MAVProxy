@@ -1,2 +1,4 @@
 pymavlink>=2.2.8
 pyserial>=3.0
+sbp>=2.3.15
+requests>=2.18.4
